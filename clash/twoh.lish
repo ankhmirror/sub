@@ -1,0 +1,13 @@
+IP-CIDR,10.5.40.0/24,no-resolve
+IP-CIDR,10.5.42.0/24,no-resolve
+IP-CIDR,10.5.53.0/24,no-resolve
+IP-CIDR,10.5.54.0/24,no-resolve
+IP-CIDR,10.5.56.0/24,no-resolve
+IP-CIDR,10.5.58.0/24,no-resolve
+IP-CIDR,10.5.62.0/24,no-resolve
+IP-CIDR,10.5.67.0/24,no-resolve
+DOMAIN-SUFFIX,biz.ehjedu.cn
+DOMAIN-SUFFIX,cloud.shecltd.com
+DOMAIN-SUFFIX,ekb.ehjedu.cn
+DOMAIN-SUFFIX,zxpcs.com
+DOMAIN-SUFFIX,zyjy
